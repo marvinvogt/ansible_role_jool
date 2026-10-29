@@ -2,7 +2,7 @@
 
 Ansible role to install [Jool](https://nicmx.github.io/Jool), an open source IPv4/IPv6 translator.
 
-[![Tests](https://img.shields.io/github/actions/workflow/status/srv6d/ansible_role_jool/molecule.yml?branch=main&label=Tests)](https://github.com/SRv6d/ansible_role_jool/actions/workflows/molecule.yml)
+[![Tests](https://img.shields.io/github/actions/workflow/status/marvinvogt/ansible_role_jool/molecule.yml?branch=main&label=Tests)](https://github.com/marvinvogt/ansible_role_jool/actions/workflows/molecule.yml)
 [![Ansible Galaxy](https://img.shields.io/badge/Ansible%20Galaxy-srv6d.jool-blue)](https://galaxy.ansible.com/srv6d/jool)
 
 ## Example Playbook

@@ -3,7 +3,7 @@ galaxy_info:
   author: srv6d
   role_name: jool
   description: Jool, an open source SIIT and a NAT64 implementation for Linux.
-  issue_tracker_url: https://github.com/srv6d/ansible_role_jool/issues
+  issue_tracker_url: https://github.com/marvinvogt/ansible_role_jool/issues
 
   license: GPL-3.0-only
 
